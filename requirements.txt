@@ -16,7 +16,7 @@ backports.zoneinfo==0.2.1
 blinker==1.5
 breadability==0.1.20
 cachetools==5.2.0
-certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
+#certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
 cffi @ file:///C:/Windows/Temp/abs_6808y9x40v/croots/recipe/cffi_1659598653989/work
 chardet==5.0.0
 charset-normalizer==2.1.1
