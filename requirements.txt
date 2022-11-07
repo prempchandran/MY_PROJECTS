@@ -9,7 +9,7 @@ altair==4.2.0
 async-timeout==4.0.2
 #attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
 autopep8==2.0.0
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+#backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 backports.zoneinfo==0.2.1
 beautifulsoup4 @ file:///C:/ci/beautifulsoup4_1650274792587/work
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
