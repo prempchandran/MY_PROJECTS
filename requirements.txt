@@ -7,7 +7,7 @@ altair==4.2.0
 #argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644569878360/work
 #asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 async-timeout==4.0.2
-attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
+#attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
 autopep8==2.0.0
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 backports.zoneinfo==0.2.1
