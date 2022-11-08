@@ -3,13 +3,9 @@ aiohttp==3.8.3
 aiosignal==1.2.0
 aitextgen==0.5.2
 altair==4.2.0
-<<<<<<< HEAD
-asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
-=======
 #argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 #argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644569878360/work
 #asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
->>>>>>> 357660c3380f6b905dfff0bc7f931ac738f35d37
 async-timeout==4.0.2
 #attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
 autopep8==2.0.0
