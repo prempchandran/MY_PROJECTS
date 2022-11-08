@@ -3,7 +3,6 @@ aiohttp==3.8.3
 aiosignal==1.2.0
 aitextgen==0.5.2
 altair==4.2.0
-<<<<<<< HEAD
 asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 =======
 #argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
